@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aula9Spinner</string>
+
+    <string name="ma_et_nome">Nome</string>
+    <string name="ma_btn_ok">OK</string>
+
+    <!-- DADOS FIXO -->
+    <string-array name="ma_sp_array_estado">
+        <item>Selecione</item>
+        <item>Solteiro</item>
+        <item>Casado</item>
+        <item>Divorciado</item>
+        <item>Viúvo</item>
+    </string-array>
+</resources>
